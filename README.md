@@ -19,6 +19,12 @@ curl -fsSL https://raw.githubusercontent.com/DantorKing/audio-metadata-cli/refs/
 
 `./tag -t "Title" -al "Album" -ar "Artist" file.mp3`
 
+## Usage with yazi
+Select one or more files, then press `;` to run a shell command.
+<img width="1062" height="145" alt="image" src="https://github.com/user-attachments/assets/b4dca80f-4887-4939-8a70-80672b734e0e" />
+
+The `"$@"` is equivalent to passing the files as arguments.
+
 ## Dependencies
 
 - ffmpeg
