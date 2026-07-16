@@ -7,6 +7,7 @@ Download the script from this repository.<br>
 curl -fsSL https://raw.githubusercontent.com/DantorKing/audio-metadata-cli/refs/heads/main/tag -o tag
 ```
 <br>
+
 `chmod +x tag`
 
 ### Flags
