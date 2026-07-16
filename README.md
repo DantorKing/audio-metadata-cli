@@ -7,9 +7,9 @@ Download the script from this repository.
 
 ### Flags
 
-`-t` — Title
-`-al` — Album
-`-ar` — Artist
+`-t` — Title<br>
+`-al` — Album<br>
+`-ar` — Artist<br>
 
 
 `./tag -t "Title" -al "Album" -ar "Artist" file.mp3`
