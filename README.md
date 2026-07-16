@@ -2,7 +2,8 @@
 
 ## Usage
 
-Download the script from this repository.
+Download the script from this repository.<br>
+`curl -fsSL https://raw.githubusercontent.com/DantorKing/audio-metadata-cli/refs/heads/main/tag -o tag`<br>
 `chmod +x tag`
 
 ### Flags
@@ -13,3 +14,7 @@ Download the script from this repository.
 
 
 `./tag -t "Title" -al "Album" -ar "Artist" file.mp3`
+
+## Dependencies
+
+- ffmpeg
